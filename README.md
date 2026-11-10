@@ -38,3 +38,11 @@ Python, Google Colab, pandas, NumPy, SciPy, statsmodels, and Matplotlib.
 
 ## How to Run
 Open the project notebook in Google Colab and select Runtime > Run all. The simulation uses a fixed random seed for reproducibility.
+
+## Course Information
+
+**Course Title:** Experiments, A/B Testing, and Causal Inference
+
+**Academy:** SDAIA Academy
+
+**Official GitHub:** https://github.com/SDAIAAcademy
